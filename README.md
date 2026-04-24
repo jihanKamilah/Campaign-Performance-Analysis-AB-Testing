@@ -255,3 +255,11 @@ Data Analyst | Turning data into meaningful insights
 
 - GitHub: https://github.com/jihanKamilah  
 - Medium: https://medium.com/@jihankamilah
+
+---
+
+## 📝 Article Version (Coming Soon)
+
+This project is also written as a full storytelling article on Medium — covering the thought process, business context, and insights in a more narrative way.
+
+The article is currently under review by a publication and will be available soon. I’ll update this repository once it’s published 🚀
